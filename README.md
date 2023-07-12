@@ -1,2 +1,2 @@
 # webpagemit
-Creación de pagina web para practicas de Cloud and DevOps del MIT
+Creación de pagina web en Git para practicas de Cloud and DevOps del MIT
